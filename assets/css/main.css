@@ -1,0 +1,82 @@
+body {
+  background: #101010;
+  font-family: "Inter", sans-serif;
+  color: #ffffff;
+  padding-top: 6em;
+}
+
+.container {
+  max-width: 760px;
+}
+
+.hero__emoji {
+    font-size: 70px;
+}
+
+.section__title {
+  padding: 1em 0 1em 0;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 38px;
+  line-height: 46px;
+}
+
+.format-text {
+  padding-bottom: 1em;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 34px;
+}
+
+a:link {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 400;
+}
+a:visited {
+  color: #428bca;
+}
+a:hover,
+a:focus {
+  color: #0056b3;
+  text-decoration: none;
+}
+a:active {
+}
+
+a.instagram {
+  color: #55acee;
+}
+
+a.github:hover,
+a.github:focus {
+  color: #4b97d1;
+}
+
+a.instagram {
+  color: #ea4c89;
+}
+
+a.instagram:hover,
+a.instagram:focus {
+  color: #c74175;
+}
+
+a.linkedin {
+  color: #0976b4;
+}
+
+a.linkedin:hover,
+a.linkedin:focus {
+  color: #086498;
+}
+
+a.contact {
+  color: #50bcfc;
+}
+
+a.contact:hover,
+a.contact:focus {
+  color: #19a3f5;
+}
