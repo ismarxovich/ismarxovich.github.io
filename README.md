@@ -2,5 +2,5 @@
 
 ## TASKLIST
 
-1. Create repository postmeta.beget.tech for "clear" php project
+1. Create repository list
 2. To do....
